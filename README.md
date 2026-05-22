@@ -1,6 +1,6 @@
 UNGC: Unsupervised Neighbor-Guided Point Cloud Completion
 
-[cite_start]This repository will contain the official PyTorch implementation for the paper "Unsupervised 3D Shape Completion via CLIP-Based Consistency". 
+This repository will contain the official PyTorch implementation for the paper "Unsupervised 3D Shape Completion via CLIP-Based Consistency". 
 
 🚀 Status: Coming Soon!
 
